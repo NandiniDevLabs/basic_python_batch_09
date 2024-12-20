@@ -1,0 +1,9 @@
+To execute python script
+python home.py
+
+To execute python script from sub-folder
+python vscode_test/test1.py
+
+
+
+
