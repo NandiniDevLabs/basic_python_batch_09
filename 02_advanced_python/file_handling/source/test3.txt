@@ -1,0 +1,7 @@
+What is an API
+What does API stand for
+How do APIs work
+SOAP API
+RPC API
+Websocket API
+REST API
