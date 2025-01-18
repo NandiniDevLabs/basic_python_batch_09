@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 tmp/*
-00-practice-examples/examples-explained/*
+00-practice-examples/*-examples-explained/*
 
 # C extensions
 *.so
