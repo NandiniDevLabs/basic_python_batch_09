@@ -5,5 +5,18 @@ To execute python script from sub-folder
 python vscode_test/test1.py
 
 
+Existing location: C:\Users\Vijaya Nandini\Documents\2024_12_B9_Datavalley\basic_python_batch_09\
+Try executing this script file: 02_advanced_python\modules_intro\practice_module.py
+
+Option1:
+To Change Directory -> cd 02_advanced_python\modules_intro\
+To List existing files -> ls
+To run python script --> python practice_module.py
+
+Option2:
+python 02_advanced_python\modules_intro\practice_module.py
+
+
+
 
 
