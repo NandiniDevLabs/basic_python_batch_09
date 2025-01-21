@@ -15,6 +15,18 @@ def test():
     print("It returns None")
     return None
 
+def test2():
+    print("This is test2 function from practice_module")
+    print("It returns None")
+    return None
+
+def test3():
+    my_test3_var = 5.2
+    print("This is test3 function from practice_module")
+    print("It returns None")
+    print(f"My test3 variable is : {my_test3_var}")
+    return None
+
 # Calling test function
 test()
 
